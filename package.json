@@ -1,0 +1,21 @@
+{
+  "name": "bundl-sourcemap",
+  "version": "1.0.0",
+  "description": "Generate source maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/bundl-sourcemap.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/bundl-sourcemap/issues"
+  },
+  "dependencies": {
+    "source-map": "^0.5.3"
+  }
+}
