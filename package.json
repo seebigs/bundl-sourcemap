@@ -16,6 +16,6 @@
     "url": "https://github.com/seebigs/bundl-sourcemap/issues"
   },
   "dependencies": {
-    "source-map": "^0.5.3"
+    "source-map": "^0.5.6"
   }
 }
